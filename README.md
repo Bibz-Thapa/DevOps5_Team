@@ -1,0 +1,1 @@
+This was a project done during DevOps training where we would deploy a website that would contain the an introduction of me and my team members with the use of AWS, Github Secrets and Docker files in order to automate the process.
